@@ -18,7 +18,7 @@ Shows promotion rates, hiring metrics, turnover, and performance ratings, with a
 #### iii. Gender Distribution by Region:
 Switzerland shows a higher proportion of men (169 men vs 95 women), while Europe has more balanced figures (120 men vs 104 women). Other regions like Americas, Asia-Pacific, and the Middle East have minimal presence, which is an area for growth.
 ## Hiring Trends:
-#### i. Percentage of Hires FY20:
+####  Percentage of Hires FY20:
 51.52% men and 48.48% women were hired in FY20.
 The close gender balance in hiring indicates strong efforts toward diversity in recruitment, but more work is needed to translate these hiring efforts into leadership roles.
 ## Promotion Metrics:
@@ -64,4 +64,4 @@ Establish measurable KPIs, such as increasing the number of women in executive p
 This dashboard reveals the telecom client’s strong commitment to diversity and inclusion but also highlights significant gaps in gender balance at the senior management level. While hiring practices show balanced gender representation, promotions and leadership roles remain dominated by men. Addressing these issues through targeted leadership programs, revisiting promotion criteria, and focusing on performance fairness can help the client achieve its diversity goals and foster a more inclusive work environment.
 By leveraging these insights, the telecom client can make data-driven decisions to improve gender diversity, ensuring a more equitable and diverse workforce in the future.
 ##
-To interact with the dashboard please click [here]()
+To interact with the dashboard please click [here](https://app.powerbi.com/view?r=eyJrIjoiMzQwYjgxOTMtMTMwNS00MzAzLTg2MzYtYWViNmYyYzEyNTQ4IiwidCI6IjU3ZjM5NjcyLTEyMjgtNDhmMy05MmQ5LTM5MmQyYWRhYzY5OCJ9)
