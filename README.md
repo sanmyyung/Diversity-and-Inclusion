@@ -1,5 +1,5 @@
 # Diversity-and-Inclusion
-
+![](https://github.com/sanmyyung/Diversity-and-Inclusion/blob/main/DashB%201.JPG)
 # Introduction
 This report presents an analysis of a telecom client's diversity and inclusion data using a Power BI dashboard. The primary focus is to evaluate gender diversity and inclusion efforts, especially at the executive management level, and suggest strategies to improve gender balance. The report highlights key performance indicators (KPIs) related to hiring, promotions, employee turnover, and performance ratings by gender across various regions and departments.
 ## Dashboard Overview
